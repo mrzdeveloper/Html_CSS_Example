@@ -1,0 +1,19 @@
+@font-face {
+    font-family: myfont;
+    src: url();
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    /* font-family: myfont; */
+    font-size: 1em;
+
+}
+
+a {
+    text-decoration: none;
+}
