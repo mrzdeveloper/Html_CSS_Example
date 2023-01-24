@@ -1,0 +1,24 @@
+header nav {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+header nav .navright {
+    display: flex;
+    align-items: center;
+
+}
+
+
+header nav .navright a {
+    color: black;
+    font-size: 1.6em;
+    margin: 0px 15px;
+}
+
+header nav .navright a i {}
+
+header nav .navleft {}
+
+header nav .navleft a {}
